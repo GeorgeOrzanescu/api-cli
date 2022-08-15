@@ -11,3 +11,10 @@ $ api-cli --help [COMMAND]
 USAGE
   $ api-cli COMMAND
 ...
+
+
+COMMANDS
+  add-user   add a new user
+  get-user   describe the command here
+  get-users  get all registered users
+  help       Display help for api-cli.
